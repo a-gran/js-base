@@ -1,4 +1,7 @@
-// #Spread & Rest operators
+/// Spread operator
+// разворачивает массивы и объекты
+// в основном нужен для создания новых объектов и массивов
+// или для их трансформации в более удобные структуры данных (слияние и т.п.)
 
 const citiesRussia = ['Москва', 'Санкт-Петербург', 'Казань', 'Новосибирск']
 const citiesEurope = ['Прага', 'Прага', 'Париж']
@@ -73,10 +76,6 @@ console.log(nodes) // массив
 
 console.log(divs, Array.isArray(divs)) // false
 console.log(nodes, Array.isArray(nodes)) //true
-
-
-
-/// Rest
 
 
 
