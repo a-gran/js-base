@@ -45,4 +45,4 @@ console.log('=======================================')
 
 // короткая запись
 const newPeople5 = people.map(person => `Имя: ${person.name}, Возраст: ${person.age} лет`)
-console.log('newPeople5', newPeople5[1]) // вывод элемента нового массива
+console.log('newPeople5', newPeople5[1]) // вывод в консоль элемента нового массива
