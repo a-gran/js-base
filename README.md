@@ -1,1 +1,1 @@
-## Base JS scripts
+## Base JS-syntax
